@@ -1,0 +1,2 @@
+# Poll
+Django training
